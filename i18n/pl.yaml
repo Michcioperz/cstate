@@ -1,0 +1,149 @@
+# Polish language file for cState
+# Version 4.1
+
+- id: languageCode
+  translation: pl
+- id: languageName
+  translation: Polski
+- id: languageNameShort
+  translation: POL
+
+##
+## INDEX.HTML
+##
+
+# Summary status message
+- id: isDown
+  translation: Trwa awaria
+- id: isDisrupted
+  translation: Występują zakłócenia
+- id: isNotice
+  translation: Proszę przeczytać ogłoszenie
+- id: isOk
+  translation: Wszystko działa
+
+# No JS warning
+- id: noScriptingIntro
+  translation: Uh oh! It looks like you have disabled JavaScript. Please
+  translation: Ups! Wygląda na to, że masz wyłączony JavaScript. Proszę
+- id: noScriptingLink
+  translation: włączyć jego obsługę
+- id: noScriptingOutro
+  translation: dla lepszego działania strony.
+
+- id: thisIsDown
+  translation: Awaria
+- id: thisIsDisrupted
+  translation: Zakłócenia
+- id: thisIsNotice
+  translation: Konserwacja
+- id: thisIsOk
+  translation: OK
+
+# "Last checked" + "just now"
+- id: lastChecked
+  translation: Ostatnie sprawdzenie
+- id: justNow
+  translation: przed chwilą
+- id: someTimeAgo
+  translation: temu
+
+# Example usage: `5` + `years`
+# Final result: 'Last checked 5 years ago'
+# Number goes before string
+# Use short variants until months
+- id: yearsAgo
+  translation: lat
+- id: monthsAgo
+  translation: miesięcy
+- id: daysAgo
+  translation: dni
+- id: hoursAgo
+  translation: godz.
+- id: minsAgo
+  translation: min.
+- id: secondsAgo
+  translation: s
+
+- id: autoRefreshNotice
+  translation: Spróbujemy odświeżać stronę co 5 minut
+
+# Incidents
+- id: incidents
+  translation: Zdarzenia
+- id: incidentHistory
+  translation: Historia zdarzeń
+
+- id: resolved
+  translation: Rozwiązane # if it's less than a min
+- id: inUnderAMinute
+  translation: poniżej minuty # continuing the last string
+- id: resolvedAfter
+  translation: Rozwiązane po # + 19 min
+- id: ofDowntime
+  translation: awarii
+
+- id: downtimeOngoing
+  translation: Ten problem jeszcze nie został rozwiązany
+
+
+- id: calmBeforeTheStorm
+  translation: Czy to cisza przed burzą?
+- id: noIncidentsDesc
+  translation: Ta strona nie zawiera jeszcze żadnych zdarzeń. Być może została dopiero założona przez właściciela (lub właścicieli), nie miała awarii lub nie żadne nie zostały odnotowane.
+
+
+- id: continueReading
+  translation: Czytaj dalej
+- id: prev
+  translation: Poprzednie
+- id: next
+  translation: Następne
+
+##
+## OTHER
+##
+
+- id: goBack
+  translation: Wróć do
+- id: backToTop
+  translation: Wróć na górę
+- id: poweredBy
+  translation: Zasilane przez
+
+- id: notFound
+  translation: Nic tutaj nie ma.
+- id: notFoundText
+  translation: To może być problem po naszej stronie. Być może coś zostało przeniesione i go tu nie ma. Możliwe też, że strona, którą próbujesz odwiedzić, jest pusta. Mimo wszystko, czy możesz sprawdzić czy link jest poprawny?
+
+- id: rss
+  translation: Zasubskrybuj przez RSS
+- id: toAllUpdates
+  translation: wszystkie aktualizacje
+- id: or
+  translation: lub
+- id: onlyThisFeed
+  translation: tylko ten strumień
+
+##
+## v3
+##
+- id: entries
+  translation: wpisy
+- id: newestToOldest
+  translation: od najnowszego do najstarszego
+
+##
+## v4
+##
+- id: notFoundAffected
+  translation: Wygląda na to, że ten system albo nie istnieje, albo nie miał żadnych notowanych awarii.
+
+##
+## v4.1
+## 
+
+- id: averageSystemsDowntime
+  translation: Wygląda na to, że ostatnio ten system był niedostępny przez średnio
+- id: averageSystemsDowntimeSecondPart
+  translation: minut na awarię.
