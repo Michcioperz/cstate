@@ -24,7 +24,6 @@
 
 # No JS warning
 - id: noScriptingIntro
-  translation: Uh oh! It looks like you have disabled JavaScript. Please
   translation: Ups! Wygląda na to, że masz wyłączony JavaScript. Proszę
 - id: noScriptingLink
   translation: włączyć jego obsługę
