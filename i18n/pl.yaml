@@ -41,7 +41,7 @@
 
 # "Last checked" + "just now"
 - id: lastChecked
-  translation: Ostatnie sprawdzenie
+  translation: Ostatnie odświeżenie
 - id: justNow
   translation: przed chwilą
 - id: someTimeAgo
