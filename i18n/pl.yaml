@@ -35,7 +35,7 @@
 - id: thisIsDisrupted
   translation: Zakłócenia
 - id: thisIsNotice
-  translation: Konserwacja
+  translation: Prace techniczne
 - id: thisIsOk
   translation: OK
 
@@ -89,7 +89,7 @@
 - id: calmBeforeTheStorm
   translation: Czy to cisza przed burzą?
 - id: noIncidentsDesc
-  translation: Ta strona nie zawiera jeszcze żadnych zdarzeń. Być może została dopiero założona przez właściciela (lub właścicieli), nie miała awarii lub nie żadne nie zostały odnotowane.
+  translation: Ta strona nie zawiera jeszcze żadnych zdarzeń. Być może została dopiero założona przez właściciela (lub właścicieli), żadne awarie nie wystąpiły lub nie zostały odnotowane.
 
 
 - id: continueReading
